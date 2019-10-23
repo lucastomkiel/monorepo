@@ -1,0 +1,12 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn workspace calc start"
+  },
+  "workspaces": {
+    "packages": ["packages/*"]
+  }
+}

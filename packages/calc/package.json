@@ -1,0 +1,14 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "lodash": "^4.17.15",
+    "sum": "1.0.0"
+  }
+}
